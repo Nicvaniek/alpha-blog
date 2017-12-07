@@ -15,7 +15,17 @@ $navbar-default-bg: #6CB1C3;
 .article-actions{
   border-top: 1px solid #eaeaea;
   padding-top: 5px;
+  margin-top: 5px;
 }
 .description{
-  margin-top:0;
+  margin-top: 0;
+}
+.article-title{
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.article-description{
+  border-top: 1px #eaeaea;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
